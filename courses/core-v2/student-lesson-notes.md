@@ -15,6 +15,12 @@ The workshop has lectures followed by exercises. The exercises are your chance t
 - In a typical React application, `ReactDOM.render()` is only used once. As React changes our JSX responses from our components, React will also take care of updating the DOM to reflect those JSX changes.
 - A function that returns JSX is a "component" in React. There are also older ways of creating components with classes. Function-based and class-based components can intermingle in the same app.
 
+- Imperative - does exactly what you tell it to do
+- Declarative - describe what you want it to do
+
+- Component - definition
+- Element - instance
+
 Docs: https://reactjs.org/docs/introducing-jsx.html
 
 JSX Confusing Parts: https://reacttraining.com/blog/jsx-the-confusing-parts/
